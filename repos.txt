@@ -1,0 +1,4 @@
+git://github.com/vmware/vmware-vcenter.git
+git://github.com/vmware/vmware-vshield.git
+git://github.com/vmware/vmware-vmware_lib.git
+git://github.com/vmware/vmware-vcsa.git
