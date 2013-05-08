@@ -4,7 +4,7 @@ General description goes here.
 
 ## usage
 
-```rake -f broker.rake install```
+```rake install```
 
 ## utils
 
